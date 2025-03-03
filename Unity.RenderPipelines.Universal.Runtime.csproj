@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{747b9e97-bed9-a8cc-044b-ff4092f46a87}</ProjectGuid>
+    <ProjectGuid>{89fd8f71-b715-c7d5-1e66-0e34e4c9ff96}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.RenderPipelines.Universal.Runtime</AssemblyName>
@@ -96,8 +96,8 @@
      <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Runtime/UniversalRenderPipelineRenderGraph.cs" />
      <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Runtime/2D/Light2DAuthoring.cs" />
      <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Runtime/Overrides/WhiteBalance.cs" />
-     <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Runtime/Passes/CopyColorPass.cs" />
      <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Runtime/Tiling/LightMinMaxZJob.cs" />
+     <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Runtime/Passes/CopyColorPass.cs" />
      <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Runtime/ShadowUtils.cs" />
      <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Runtime/Debug/DebugHandler.cs" />
      <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Runtime/Decal/Entities/DecalDrawSystem.cs" />
@@ -482,28 +482,28 @@
         <HintPath>/Applications/Unity/Hub/Editor/2022.3.4f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.YamlDotNet">
-        <HintPath>/Users/coding_repos/kadam_Assignement1/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll</HintPath>
+        <HintPath>/Users/coding_repos/AlienShowdown_IOBB/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
-        <HintPath>/Users/coding_repos/kadam_Assignement1/Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll</HintPath>
+        <HintPath>/Users/coding_repos/AlienShowdown_IOBB/Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-        <HintPath>/Users/coding_repos/kadam_Assignement1/Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+        <HintPath>/Users/coding_repos/AlienShowdown_IOBB/Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
-        <HintPath>/Users/coding_repos/kadam_Assignement1/Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+        <HintPath>/Users/coding_repos/AlienShowdown_IOBB/Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
-        <HintPath>/Users/coding_repos/kadam_Assignement1/Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll</HintPath>
+        <HintPath>/Users/coding_repos/AlienShowdown_IOBB/Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.IonicZip">
-        <HintPath>/Users/coding_repos/kadam_Assignement1/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
+        <HintPath>/Users/coding_repos/AlienShowdown_IOBB/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-        <HintPath>/Users/coding_repos/kadam_Assignement1/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+        <HintPath>/Users/coding_repos/AlienShowdown_IOBB/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
-        <HintPath>/Users/coding_repos/kadam_Assignement1/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
+        <HintPath>/Users/coding_repos/AlienShowdown_IOBB/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
         <HintPath>/Applications/Unity/Hub/Editor/2022.3.4f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -880,27 +880,27 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.RenderPipelines.Core.Runtime.csproj">
-      <Project>{dd2cdd06-9a66-7940-aaf9-9bc9fd86d9ea}</Project>
+      <Project>{aea8790b-71e7-c140-c42b-cf1f992580bf}</Project>
       <Name>Unity.RenderPipelines.Core.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipeline.Universal.ShaderLibrary.csproj">
-      <Project>{a3f38151-2f35-216f-1d25-3d33804d0d59}</Project>
+      <Project>{ef111b4d-3050-7c89-3fb2-679e604cdbd6}</Project>
       <Name>Unity.RenderPipeline.Universal.ShaderLibrary</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Mathematics.csproj">
-      <Project>{e4cad493-c909-1e23-0b16-45fb835046d2}</Project>
+      <Project>{44a35850-16d4-b8fd-3239-5a458c7ce344}</Project>
       <Name>Unity.Mathematics</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Burst.csproj">
-      <Project>{e313c4d9-f85c-7a72-44bb-3cb2b75aaec3}</Project>
+      <Project>{ec2290dc-c45c-d38b-deea-e237c1e20f3b}</Project>
       <Name>Unity.Burst</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{eeb78d11-8e35-78be-0f8a-163854d5965b}</Project>
+      <Project>{d90eed73-46cc-7d3d-f4fb-c5204031a6f8}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{26745eaf-772c-630f-4dd6-db23c499b8eb}</Project>
+      <Project>{5cf2276a-0e15-6584-2a7b-5fca9cb97639}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>

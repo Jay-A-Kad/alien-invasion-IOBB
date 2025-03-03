@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{3fbf6460-de5c-879c-f970-32a67423cfc7}</ProjectGuid>
+    <ProjectGuid>{a1eca0d5-14a0-f0b6-5e73-e8bbd968498c}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Burst.CodeGen</AssemblyName>
@@ -316,19 +316,19 @@
         <HintPath>/Applications/Unity/Hub/Editor/2022.3.4f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>/Users/coding_repos/kadam_Assignement1/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+        <HintPath>/Users/coding_repos/AlienShowdown_IOBB/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil">
-        <HintPath>/Users/coding_repos/kadam_Assignement1/Library/PackageCache/com.unity.burst@1.8.7/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll</HintPath>
+        <HintPath>/Users/coding_repos/AlienShowdown_IOBB/Library/PackageCache/com.unity.burst@1.8.7/Unity.Burst.CodeGen/Unity.Burst.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Rocks">
-        <HintPath>/Users/coding_repos/kadam_Assignement1/Library/PackageCache/com.unity.burst@1.8.7/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll</HintPath>
+        <HintPath>/Users/coding_repos/AlienShowdown_IOBB/Library/PackageCache/com.unity.burst@1.8.7/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Pdb">
-        <HintPath>/Users/coding_repos/kadam_Assignement1/Library/PackageCache/com.unity.burst@1.8.7/Unity.Burst.CodeGen/Unity.Burst.Cecil.Pdb.dll</HintPath>
+        <HintPath>/Users/coding_repos/AlienShowdown_IOBB/Library/PackageCache/com.unity.burst@1.8.7/Unity.Burst.CodeGen/Unity.Burst.Cecil.Pdb.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Mdb">
-        <HintPath>/Users/coding_repos/kadam_Assignement1/Library/PackageCache/com.unity.burst@1.8.7/Unity.Burst.CodeGen/Unity.Burst.Cecil.Mdb.dll</HintPath>
+        <HintPath>/Users/coding_repos/AlienShowdown_IOBB/Library/PackageCache/com.unity.burst@1.8.7/Unity.Burst.CodeGen/Unity.Burst.Cecil.Mdb.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
         <HintPath>/Applications/Unity/Hub/Editor/2022.3.4f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -717,7 +717,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Burst.csproj">
-      <Project>{e313c4d9-f85c-7a72-44bb-3cb2b75aaec3}</Project>
+      <Project>{ec2290dc-c45c-d38b-deea-e237c1e20f3b}</Project>
       <Name>Unity.Burst</Name>
     </ProjectReference>
   </ItemGroup>

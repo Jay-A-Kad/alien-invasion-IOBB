@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{914af3bf-ee99-d81b-4a06-d2028e2af08e}</ProjectGuid>
+    <ProjectGuid>{43779a2e-678b-baf1-f464-1cfb09c25904}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.RenderPipelines.Universal.Editor</AssemblyName>
@@ -240,8 +240,8 @@
      <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Editor/SavedParameter.cs" />
      <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Editor/2D/ShaderGraph/Targets/UniversalSpriteLitSubTarget.cs" />
      <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Editor/2D/ShapeEditor/View/Drawer.cs" />
-     <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Editor/2D/Converter/BuiltInToURP2DConverterContainer.cs" />
      <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Editor/2D/ShapeEditor/View/IEditablePathView.cs" />
+     <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Editor/2D/Converter/BuiltInToURP2DConverterContainer.cs" />
      <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Editor/AssetPostProcessors/FBXMaterialDescriptionPreprocessor.cs" />
      <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Editor/Overrides/FilmGrainEditor.cs" />
      <Compile Include="Library/PackageCache/com.unity.render-pipelines.universal@14.0.8/Editor/2D/ShaderGraph/AssetCallbacks/CreateSpriteLitShaderGraph.cs" />
@@ -598,31 +598,31 @@
         <HintPath>/Applications/Unity/Hub/Editor/2022.3.4f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.YamlDotNet">
-        <HintPath>/Users/coding_repos/kadam_Assignement1/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll</HintPath>
+        <HintPath>/Users/coding_repos/AlienShowdown_IOBB/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
-        <HintPath>/Users/coding_repos/kadam_Assignement1/Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll</HintPath>
+        <HintPath>/Users/coding_repos/AlienShowdown_IOBB/Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-        <HintPath>/Users/coding_repos/kadam_Assignement1/Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+        <HintPath>/Users/coding_repos/AlienShowdown_IOBB/Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
-        <HintPath>/Users/coding_repos/kadam_Assignement1/Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+        <HintPath>/Users/coding_repos/AlienShowdown_IOBB/Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
-        <HintPath>/Users/coding_repos/kadam_Assignement1/Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll</HintPath>
+        <HintPath>/Users/coding_repos/AlienShowdown_IOBB/Library/PackageCache/com.unity.collab-proxy@2.6.0/Lib/Editor/log4netPlastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.IonicZip">
-        <HintPath>/Users/coding_repos/kadam_Assignement1/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
+        <HintPath>/Users/coding_repos/AlienShowdown_IOBB/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-        <HintPath>/Users/coding_repos/kadam_Assignement1/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+        <HintPath>/Users/coding_repos/AlienShowdown_IOBB/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
-        <HintPath>/Users/coding_repos/kadam_Assignement1/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
+        <HintPath>/Users/coding_repos/AlienShowdown_IOBB/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>/Users/coding_repos/kadam_Assignement1/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+        <HintPath>/Users/coding_repos/AlienShowdown_IOBB/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
         <HintPath>/Applications/Unity/Hub/Editor/2022.3.4f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -1008,43 +1008,43 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.RenderPipelines.Universal.Runtime.csproj">
-      <Project>{747b9e97-bed9-a8cc-044b-ff4092f46a87}</Project>
+      <Project>{89fd8f71-b715-c7d5-1e66-0e34e4c9ff96}</Project>
       <Name>Unity.RenderPipelines.Universal.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.Core.Runtime.csproj">
-      <Project>{dd2cdd06-9a66-7940-aaf9-9bc9fd86d9ea}</Project>
+      <Project>{aea8790b-71e7-c140-c42b-cf1f992580bf}</Project>
       <Name>Unity.RenderPipelines.Core.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.Core.Editor.csproj">
-      <Project>{dfcd1f29-dac1-468d-2c32-0aded16a5db4}</Project>
+      <Project>{22ebc43b-55a0-6a1d-bf57-17447eb79516}</Project>
       <Name>Unity.RenderPipelines.Core.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.ShaderGraph.Editor.csproj">
-      <Project>{5bc161c8-f10c-e925-0ed4-e7e511922d4f}</Project>
+      <Project>{41954146-6be4-1f87-12b1-2c8a9548878b}</Project>
       <Name>Unity.ShaderGraph.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Burst.Editor.csproj">
-      <Project>{e3c1665f-f710-04b3-d0ab-9326d60f07a2}</Project>
+      <Project>{bd675444-93b9-26b9-930c-fdbfca8a18d4}</Project>
       <Name>Unity.Burst.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Mathematics.Editor.csproj">
-      <Project>{c4ec0a21-6b1c-0d8c-af8e-cf01ab9a8bae}</Project>
+      <Project>{64aaff59-cdb1-4c75-a5c8-46845fbbdfe9}</Project>
       <Name>Unity.Mathematics.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{eeb78d11-8e35-78be-0f8a-163854d5965b}</Project>
+      <Project>{d90eed73-46cc-7d3d-f4fb-c5204031a6f8}</Project>
       <Name>UnityEditor.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{26745eaf-772c-630f-4dd6-db23c499b8eb}</Project>
+      <Project>{5cf2276a-0e15-6584-2a7b-5fca9cb97639}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
-      <Project>{6f0ce9c8-9bc1-2490-5e39-8837672ccec0}</Project>
+      <Project>{d75be772-980a-498c-9fa6-ef1a92f5fd73}</Project>
       <Name>UnityEditor.TestRunner</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{72b42879-959e-d84d-b28b-243c99e3df17}</Project>
+      <Project>{509371ba-fcdd-5a19-921b-ec65a9b1c09e}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>
