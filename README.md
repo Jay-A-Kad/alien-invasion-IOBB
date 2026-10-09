@@ -8,11 +8,9 @@ A 3D take on the classic *Space Invaders* formula, built in Unity. Rows of alien
 
 ### Requirements
 
-| Tool | Version |
-| --- | --- |
-| [Unity Hub](https://unity.com/download) | Latest |
-| Unity Editor | **2022.3.4f1** (LTS), with the Universal Render Pipeline |
-| [Git](https://git-scm.com/) + [Git LFS](https://git-lfs.com/) | Any recent version |
+- [Unity Hub](https://unity.com/download)
+- Unity Editor **2022.3.4f1** (LTS)
+- [Git](https://git-scm.com/) and [Git LFS](https://git-lfs.com/)
 
 The project uses Unity 2022.3.4f1. A newer 2022.3.x LTS release should also open it, but Unity may upgrade some project files when you do.
 
